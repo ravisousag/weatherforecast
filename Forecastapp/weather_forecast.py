@@ -5,7 +5,7 @@ import requests
 
 from weather import Weather
 
-API_KEY = "b91fc3cf5b981127900f92bdfb7b6a75"
+API_KEY = "YOUR_SECRET"
 
 
 class WeatherForecast:
